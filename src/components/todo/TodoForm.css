@@ -1,0 +1,27 @@
+.TodoForm {
+    width: 100%;
+    text-align: center;
+}
+
+.TodoForm input {
+    width: 70%;
+    height: 35px;
+    background-color: rgba(255, 255, 255, 0);
+    padding: 0 15px;
+    outline:none;
+    border: none;
+    vertical-align: middle;
+    color: #fff;
+}
+
+.TodoForm button {
+    float: right;
+    margin-right: 20px ;
+    width: 30px;
+    height: 30px;
+    color: #fff;
+    background-color: #2ebaee;
+    border-radius: 50%;
+    vertical-align: middle;
+    font-size: 14px;
+}
